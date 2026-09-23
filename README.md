@@ -15,9 +15,11 @@ Embora não tenha sido exigido, sugerido ou solicitado, realizei a elaboração 
 A estrutura de repetição para coletar e exibir o retorno da pesquisa de atendimento ao cliente, se mostrou satisfatória, uma vez que o contador do pesquisado atualizava-se sempre que o ultimo campo era escolhido, seguindo-se sucessivamente atéo último cliente, ou seja, após o preenchimento da décima pesquisa.
 
 Os campos de validação foram inseridos conforme a proposta ofertada, para realização do sistema, a saber:
-     ♦ Nome (facultativo o preenchimento completo);
-     ♦ Idade (sem limite para idade); e
-     ♦ opinião.
+♦ Nome (facultativo o preenchimento completo);
+♦ Idade (sem limite para idade); e
+♦ opinião.
 
 Programa desenvolvido em
-                              <img src="https://www.python.org/static/community_logos/python-logo.png" width="180">
+
+
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="180">
