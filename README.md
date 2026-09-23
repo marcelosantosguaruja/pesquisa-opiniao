@@ -1,5 +1,5 @@
-# pesquisa-opiniao
-Sistema de avaliação do atendimento a clientes.
+## pesquisa-opiniao
+Sistema de avaliação do atendimento a clientes. [![Clientes](https://img.shields.io/badge/Clientes-0077B5?style=for-thebadge&logo=Clientes&logoColor=white)](https://Clientes.com/in/marcelo-félix-dos-santos-b1128b12a/)
 
 O programa pesquisa.py foi desenvolvido para permitir que a fictícia empresa TUDOWEB pudesse realizar a pesquisa de atendimento de seus clientes. Cada um dos 50 clientes faria uma única avaliação, indicando: 
      * 1: EXCELENTE
