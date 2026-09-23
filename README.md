@@ -19,4 +19,4 @@ Os campos de validação foram inseridos conforme a proposta ofertada, para real
      ♦ Idade (sem limite para idade); e
      ♦ opinião.
 
-Programa desenvolvido em <img src="https://shields.io" alt="Python">
+Programa desenvolvido em ![Logo do Python](https://githubusercontent.com)
