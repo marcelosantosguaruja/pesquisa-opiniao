@@ -19,4 +19,5 @@ Os campos de validação foram inseridos conforme a proposta ofertada, para real
      ♦ Idade (sem limite para idade); e
      ♦ opinião.
 
-Programa desenvolvido em <img src="https://www.python.org/static/community_logos/python-logo.png" width="180">
+Programa desenvolvido em
+                              <img src="https://www.python.org/static/community_logos/python-logo.png" width="180">
